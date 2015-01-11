@@ -8,12 +8,12 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
-    <name>todo</name>
+    <name>TripMobi</name>
     <description>
-        An Ionic Framework and Cordova project.
+        The nicest way of travel
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="fellas@kauemendes.com" href="http://tripmobi.net">
+      Ionic Fellas Team
     </author>
     <content src="index.html" />
     <access origin="*" />
